@@ -51,4 +51,4 @@ pytest --cov=app --cov-report=term-missing --cov-report=html
 8. Open the HTML coverage report:
 
 open htmlcov/index.html   # macOS/Linux
-start htmlcov/index.html  # Windows
+start htmlcov/index.html  # Windows 
